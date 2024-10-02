@@ -5,7 +5,7 @@ Resources:
       InstanceType: "t2.micro"
       AvailabilityZone: "us-east-1a"
       KeyName: "Sameer"
-      ImageId: "ami-0e86e20dae9224db8"
+      ImageId: "ami-0dee22c13ea7a9a67"
       Tags: 
       - Key: Name
         Value: CF-Instance
