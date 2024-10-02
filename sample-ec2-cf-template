@@ -3,7 +3,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: "t2.micro"
-      AvailabilityZone: "us-east-1a"
+      AvailabilityZone: "ap-south-1"
       KeyName: "Sameer"
       ImageId: "ami-0dee22c13ea7a9a67"
       Tags: 
